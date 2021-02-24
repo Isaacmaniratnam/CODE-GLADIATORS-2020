@@ -1,14 +1,4 @@
-'''
 
-                            Online Python Compiler.
-                Code, Compile, Run and Debug python program online.
-Write your code in this editor and press "Run" button to execute it.
-
-'''
-
-print("Hello World")
-''' Read input from STDIN. Print your output to STDOUT '''
-    #Use input() to read input from STDIN and use print to write your output to STDOUT
 
 def main():
 
